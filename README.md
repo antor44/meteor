@@ -11,6 +11,9 @@ https://github.com/antor44/meteor
 
 Requirements:
 -MSX 1/2/2+ Europe or USA BIOS
+-Or OpenMSX emulator with Basic ROM
+-Or WebMSX:  https://webmsx.org/
+
 
 For MSX turbo R Europe or USA BIOS add this Basic line:
 
