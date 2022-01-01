@@ -1,7 +1,7 @@
 # Meteor
 MSX Basic game, a clone of Lunar Rescue.
 
-Meteor a free MSX Basic game, developed with default Basic, no assembly. 
+Meteor is a free MSX Basic game, developed with default Basic without inserting machine code.
 
 How to play: The player controls a ship, which must land on some rocks, then return to the mother ship. Additional ships every 1000 points.
 
