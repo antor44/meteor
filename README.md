@@ -5,6 +5,8 @@ Meteor is a free MSX Basic game, developed with default Basic without inserting 
 
 How to play: The player controls a ship, which must land on some rocks, then return to the mother ship. Additional ships every 1000 points.
 
+Play online:
+https://webmsx.org/?MACHINE=MSX2E&ROM=https://github.com/antor44/meteor/raw/main/meteor.rom
 
 Repository for downloads:
 https://github.com/antor44/meteor
